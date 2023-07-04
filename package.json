@@ -25,6 +25,12 @@
     "nodemailer": "^6.6.3",
     "stripe": "^8.174.0",
     "validator": "^13.6.0"
-  }
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  },
+  "engines": {
+  "node": ">=14.20.1"
+}
 }
 
