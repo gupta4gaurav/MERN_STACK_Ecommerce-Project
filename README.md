@@ -5,9 +5,13 @@ This project is a fully functional E-commerce website built using the MERN stack
 
 To access the platform, users can either register with a new email address or use the demo account credentials: 
 Email: demoaccount@gmail.com 
+
 Password: demo1234
+
 card :- 424242424242
+
 expire :- 12/34
+
 cvv :- 123
 
 ## Prerequisites
