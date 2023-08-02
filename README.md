@@ -1,6 +1,8 @@
 # MERN E-COMMERCE
 
 This project is a fully functional E-commerce website built using the MERN stack (MongoDB, Express, React, Node.js). It provides a complete solution for creating an online store with features such as product listing, shopping cart, user authentication, payment integration, and more.
+
+
 To access the platform, users can either register with a new email address or use the demo account credentials: 
 Email: demoaccount@gmail.com 
 Password: demo1234
